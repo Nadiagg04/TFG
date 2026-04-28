@@ -1,0 +1,33 @@
+# Credenciales y datos sensibles
+*.csv
+*.json
+*.env
+secrets.txt
+
+# Archivos del sistema
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Entorno virtual
+venv/
+env/
+ENV/
+new_venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Caché de modelos
+models/
+*.model
+*.pkl
+
+# Logs
+*.log
