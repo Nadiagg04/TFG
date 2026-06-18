@@ -1,0 +1,6 @@
+# Tor Expert Bundle configuration template
+DataDirectory data
+SocksPort 9050
+ControlPort 9051
+CookieAuthentication 0
+Log notice stdout
